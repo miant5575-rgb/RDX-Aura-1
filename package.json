@@ -1,8 +1,8 @@
 {
-          "name": "priyansh-bot-v2",
+          "name": "rdx-bot",
           "version": "10.1.1",
-          "description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
-          "main": "Priyansh.js",
+          "description": "A simple Facebook Messenger Bot made by RDX",
+          "main": "RDX.js",
           "engines": {
                     "node": "20.x",
                     "npm": "10.0.0"
@@ -14,24 +14,22 @@
           },
           "repository": {
                     "type": "git",
-                    "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+                    "url": "https://github.com/rdx/rdx-bot/issues"
           },
           "keywords": [
                     "bot",
                     "facebook",
-                    "projectpriyansh",
+                    "rdx",
                     "messenger",
-                    "javasvript",
-                    "priyanshu",
-                    "prince",
-                    "mental"
+                    "javascript",
+                    "rdx-bot"
           ],
-          "author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+          "author": "RDX",
           "license": "GPL-3.0",
           "bugs": {
-                    "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+                    "url": "https://github.com/rdx/rdx-bot/issues"
           },
-          "homepage": "https://github.com/Priyansh-11/Priyansh-bot/issues",
+          "homepage": "https://github.com/rdx/rdx-bot/issues",
           "dependencies": {
                     "axios": "^1.7.2",
                     "body-parser": "^1.20.0",
